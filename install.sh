@@ -6,6 +6,8 @@ pkg install wget
 pkg install ffmpeg
 pkg install nodejs
 pkg install tesseract
+pkg install libwebp
+npm install
 npm i -g cwebp
 npm i -g ytdl 
 npm i
